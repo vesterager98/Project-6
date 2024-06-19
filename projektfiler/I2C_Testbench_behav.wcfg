@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Multiplier_Testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Multiplier_Testbench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,371.578 ns"></ZoomEndTime>
+      <Cursor1Time time="10,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="168"></NameColumnWidth>
+      <ValueColumnWidth column_width="102"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="3" />
+   <wvobject fp_name="/Multiplier_Testbench/num1" type="array">
+      <obj_property name="ElementShortName">num1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">num1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_Testbench/num2" type="array">
+      <obj_property name="ElementShortName">num2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">num2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_Testbench/res" type="array">
+      <obj_property name="ElementShortName">res[15:0]</obj_property>
+      <obj_property name="ObjectShortName">res[15:0]</obj_property>
+   </wvobject>
+</wave_config>
