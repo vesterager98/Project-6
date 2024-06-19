@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=M3 NewDesignator=M4
+Added Member To Class: ClassName=ESP_Print1 Member=Component M4
