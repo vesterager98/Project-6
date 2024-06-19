@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sun Apr 23 11:00:56 2023
+# Process ID: 3592
+# Current directory: C:/Users/stump/OneDrive/Skrivebord/Vivado/Test/Test.runs/synth_1
+# Command line: vivado.exe -log ReadTest.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ReadTest.tcl
+# Log file: C:/Users/stump/OneDrive/Skrivebord/Vivado/Test/Test.runs/synth_1/ReadTest.vds
+# Journal file: C:/Users/stump/OneDrive/Skrivebord/Vivado/Test/Test.runs/synth_1\vivado.jou
+# Running On: DESKTOP-5TDGD4G, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 4, Host memory: 8424 MB
+#-----------------------------------------------------------
+source ReadTest.tcl -notrace
